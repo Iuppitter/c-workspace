@@ -1,2 +1,2 @@
 # c-workspace
-my codes when im working in the class
+rpapers - represents a simple rock, paper, scissors game on c++ programming language
